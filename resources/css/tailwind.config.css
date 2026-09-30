@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@source "../views/**/*.blade.php";
+@source "../js/**/*.js";
+
+@theme {
+    --color-primary-dark: #0a1638;
+    --color-primary-medium: #0f1f4a;
+    --color-accent-yellow: #FFD700;
+}
